@@ -55,6 +55,5 @@ Livre para uso educacional.
     <p>&copy; 2025 Projeto Web Acessível</p>
   </footer>
 </body>
-</html>
-https://unsplash.com/photos/four-persons-using-laptop-computers-while-sitting-on-chair-5QgIuuBxKwM
-https://unsplash.com/photos/group-of-people-raising-right-hand-inside-room-t20pc32VbrU
+<HTML >
+content://media/external/downloads/1000118163
